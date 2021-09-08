@@ -5,7 +5,7 @@ I am an aspiring web developer who loves to develop useful applications with a f
 Here are some details: 
 
 ![Colin's GitHub stats](https://github-readme-stats.vercel.app/api?username=czhou578&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=czhou578)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
