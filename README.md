@@ -1,8 +1,7 @@
 ### Hi, I'm Colin Zhou 👋
 
-I am an aspiring web developer who loves to develop useful applications with a fluid user experience. Check out some of my work!
+I am an aspiring web developer who loves to develop useful applications with a fluid user experience. Check out some of my work! 
 
-Here are some details: 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
