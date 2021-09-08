@@ -3,7 +3,11 @@
 I am an aspiring web developer who loves to develop useful applications with a fluid user experience. Check out some of my work!
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=czhou578)](https://github.com/anuraghazra/github-readme-stats)
+[![Colin's GitHub stats](https://github-readme-stats.vercel.app/api?username=czhou578)](https://github.com/anuraghazra/github-readme-stats)
+![Colin's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=czhou578&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **czhou578/czhou578** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
