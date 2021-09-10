@@ -1,9 +1,10 @@
 ### Hi, I'm Colin Zhou 👋
 
-I am an aspiring web developer who loves to develop useful applications with a fluid user experience. Check out some of my work! 
+I am an aspiring web developer undergrad student currently attending Bellevue College who loves to develop useful applications with a fluid user experience. Check out some of my work! 
+
+Contact email: colizu2020@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 <!--
