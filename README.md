@@ -2,7 +2,7 @@
 
 I am an aspiring web developer undergrad student currently attending Bellevue College who loves to develop useful applications with a fluid user experience. Check out some of my work! 
 
-I develop mostly using React.js for web.
+I develop mostly using React.js and Typescript for the web, but am also familiar with MySQL.
 
 Contact email: colizu2020@gmail.com
 
