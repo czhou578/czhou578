@@ -1,10 +1,12 @@
 ### Hi, I'm Colin Zhou 👋
 
-I am an aspiring web developer undergrad student currently attending Bellevue College who loves to develop useful applications with a fluid user experience. Check out some of my work! 
+I am an aspiring web developer graduate student currently attending UIUC who loves to develop useful applications with a fluid user experience. Check out some of my work! 
 
-I develop mostly using React.js and Typescript for the web, but am also familiar with MySQL.
+I develop mostly using React and TypeScript for the web.
 
 Contact email: colizu2020@gmail.com
+
+Find me on [LinkedIn](https://www.linkedin.com/in/colin-z-84a1a0137/), or view my [resume](https://czhou578.github.io/v2/resume/resume.pdf).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
