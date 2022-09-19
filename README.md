@@ -1,8 +1,8 @@
 ### Hi, I'm Colin Zhou 👋
 
-I am an aspiring web developer graduate student currently attending UIUC who loves to develop useful applications with a fluid user experience. Check out some of my work! 
+I am an aspiring graduate student currently attending UIUC who loves to develop useful applications with a fluid user experience. Check out some of my work! 
 
-I develop mostly using React and TypeScript for the web.
+I develop mostly using React and TypeScript for the web and am familiar with SQL.
 
 Contact email: colizu2020@gmail.com
 
