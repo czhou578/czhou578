@@ -4,6 +4,8 @@ I am an aspiring graduate student currently attending UIUC who loves to develop 
 
 I develop mostly using React and TypeScript for the web and am familiar with SQL.
 
+[Personal Website](https://czhou578.github.io/v3/)
+
 Contact email: colizu2020@gmail.com
 
 Find me on [LinkedIn](https://www.linkedin.com/in/colin-z-84a1a0137/), or view my [resume](https://czhou578.github.io/v2/resume/resume.pdf).
