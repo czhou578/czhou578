@@ -9,6 +9,7 @@ I develop mostly using React and TypeScript for the web and am familiar with SQL
 Contact email: colizu2020@gmail.com
 
 Find me on [LinkedIn](https://www.linkedin.com/in/colin-z-84a1a0137/), or view my [resume](https://czhou578.github.io/v2/resume/resume.pdf).
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
