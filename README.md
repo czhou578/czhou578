@@ -1,6 +1,6 @@
 ### Hi, I'm Colin Zhou 👋
 
-I am an aspiring graduate student currently attending UIUC who loves to develop useful applications with a fluid user experience. Check out some of my work! 
+I am an aspiring software engineer who loves to develop useful applications with a fluid user experience. Check out some of my work! Previously, I attended UIUC for my masters degree and Bellevue College for my undergraduate degree in Computer Science. 
 
 I develop mostly using React and TypeScript for the web and am familiar with SQL.
 
