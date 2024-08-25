@@ -1,6 +1,6 @@
 ### Hi, I'm Colin Zhou 👋
 
-I am an aspiring full stack software engineer who loves to develop useful applications with a fluid user experience. Check out some of my work!
+I am a full stack software engineer who loves to develop useful applications with a fluid user experience. I am particularly interested in developing applications that utilize AI to either streamline or enhance the capabilities of users. Check out some of my work!
 
 [Personal Website](https://czhou578.github.io/v3/)
 
