@@ -8,7 +8,7 @@ Contact email: colizu2020@gmail.com
 
 Find me on [LinkedIn](https://www.linkedin.com/in/colin-z-84a1a0137/), or view my [resume](https://czhou578.github.io/v2/resume/resume.pdf).
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
