@@ -4,6 +4,8 @@ I am a full stack software engineer who loves to develop useful applications wit
 
 [Personal Website](https://czhou578.github.io/v3/)
 
+My [blog](https://czhou578.github.io/blog/)
+
 Contact email: colizu2020@gmail.com
 
 Find me on [LinkedIn](https://www.linkedin.com/in/colin-z-84a1a0137/), or view my [resume](https://czhou578.github.io/v2/resume/resume.pdf).
